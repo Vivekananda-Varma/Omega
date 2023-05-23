@@ -1,0 +1,146 @@
+body {
+    margin: 0;
+}
+
+#first-image {
+    width: 100%;
+}
+
+@font-face {
+    font-family: 'futura';
+    src: url(../fonts/futura\ light\ bt.ttf);
+    font-weight: normal;
+}
+
+#ftime-the-world-container {
+    background-color: #666666;
+}
+
+.red-titles {
+    font-family: 'futura';
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    color:rgb(196, 13, 46);
+    font-weight: 500;
+}
+
+.worldtimer-collection-text {
+    font-family: 'futura';
+    font-size: 16px;
+    text-transform: uppercase;
+    text-align: center;
+    color:rgb(64, 64, 64);
+    font-weight: 500;
+}
+
+.discover-more {
+    font-family: 'futura';
+    font-size: 14px;
+    text-decoration: underline;
+    text-align: center;
+    color:rgb(103, 103, 103);
+    font-weight: 500;
+    margin-bottom: 100px;
+}
+
+.body-text {
+    font-family: 'futura';
+    font-size: 16px;
+    margin-left: 5%;
+    max-width: 90%;
+    color: #666666;
+    text-align: center;
+}
+
+.discover-button {
+    margin: 20px 17%;
+    padding: 10px 20px;
+    background-color: #fff; 
+    border-width:  1px;
+    border-color: #666666;
+    text-transform: uppercase;
+    font-family: 'futura';
+    font-size: 16px;    
+}
+
+.watch-dial {
+    margin: 2% 5%;
+    width: 90%;
+    border: none;
+}
+
+.discover-more-button {
+    margin: 20px 28%;
+    padding: 10px 20px;
+    background-color: #fff; 
+    border-width:  1px;
+    border-color: #666666;
+    text-transform: uppercase;
+    font-family: 'futura';
+    font-size: 16px;    
+}
+
+.video {
+    margin-top: 80px;
+    margin-left: 5%;
+    margin-bottom: 20px;
+    width: 90%;
+    height: 395px;
+    border: none;
+}
+
+.watch {
+    display: inline;
+    margin-left: 5%;
+    width: 45%;
+}
+
+.watch-info-container {
+    vertical-align: top;
+    margin-top: 13%;
+    display: inline-block;
+    width: 40%;
+}
+
+.new-button {
+    padding: 3px 10px;
+    border-width: 0;
+    border-radius: 15px;
+    font-family: 'futura';
+    text-transform: uppercase;
+    background-color: #d8d8d8;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.watch-model {
+    font-family: 'futura';
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 16px;
+    color:rgb(75, 75, 75);
+    font-weight: 600;
+}
+
+.watch-category-container {
+    margin: 20px 0;
+    line-height: 6px;
+}
+
+.watch-category {
+    font-family: 'futura';
+    font-size: 14px;
+    color:rgb(103, 103, 103);
+    font-weight: 500;
+}
+
+.details {
+    margin-top: 30px;
+    font-family: 'futura';
+    font-size: 14px;
+    text-decoration: underline;
+    color:rgb(103, 103, 103);
+    font-weight: 500;
+}
+
